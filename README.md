@@ -1,11 +1,11 @@
-# Exact Compression
-[BiGraph-BodyReconstruction](https://arxiv.org/pdf/2110.08472.pdf) is an approach to compress a rectifier network while exactly preserving its underlying functionality with respect to a given input domain if some of its neurons are stable.
+# BiGraphBody
+In [BiGraphBody](https://arxiv.org/pdf/2110.08472.pdf), we have proposed a dual-scale graph-based method for 3D human shape and pose recovery from a single image and ahieve comparable results to the state-of-the-art methods.
 
 ## Implementation
 We will release the code soon!
 
-## Citing BiGraph-BodyReconstruction
-Please cite BiGraph-BodyReconstruction in your publication if it helps your research:
+## Citing BiGraphBody
+Please cite BiGraphBody in your publication if it helps your research:
 
 ```
 @inproceedings{yu2021joint,
